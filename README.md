@@ -15,6 +15,7 @@ SEARCH : Clients can search file using keyword . It uses bash script (searchscri
 file_name file_path peer_portno peer_IP_address
 
 ------------------------------CLIENT FOLDER-------------------------------------------------------------------------------------
+
 1.fileclient.c : This file creates a client. File takes two commandline input arguments server-ip and server port.
 Server IP and port will be used to connect the server and publish and pull events.
 -----------------------------------------------------------------------------------------------------------------------------------
